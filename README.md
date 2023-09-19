@@ -1,2 +1,2 @@
 # Python
-Webentwicklung mit Python und Django
+Udemy Kurs: Webentwicklung mit Python und Django
